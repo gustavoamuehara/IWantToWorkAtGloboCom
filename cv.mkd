@@ -1,9 +1,67 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Plataformas Sociais
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+
+Gustavo Alex Massaharu Uehara
+
+
+Brasileiro, Solteiro, 26 anos
+Av. Professora Ida Kolb, 296 ap. 121.
+Casa Verde - Cep: 02518-000
+Tel: (11) 3857 1520 / Cel: (11) 9637 6245
+E-mail: gustavoamuehara@gmail.com
+
+
+Objetivo
+Desenvolvedor Front-end, webdesigner.
+
+Graduação
+Publicidade e Propaganda, Faculdade Cásper Líbero
+
+Experiência Profissional
+
+Catho Online (2009 - emprego atual)
+Cargo atual: Desenvolvedor Front-end
+Site de empregos.
+www.catho.com.br
+
+Versa Comunicação Integrada (2006 – 2008)
+Agência de Publicidade e Design. 
+www.versanet.com.br
+
+Millward Brown Brasil (2006)
+Instituto de pesquisa.
+www.millwardbrown.com / www.ibope.com.br
+
+Senac São Paulo (2005 – 2006) – Serviço Nacional de Aprendizagem.
+www.sp.senac.br
+
+Uno Design (2005)
+Agência de Design.
+www.unodesign.com.br
+
+Conhecimentos em Informática
+
+- HTML5
+- CSS3
+- Java Script (JQuery)
+- Smarty Template Engine
+- SEO
+- UX
+- PHP (conhecimento básico)
+- Scrum
+- Office
+- Pacote Adobe
+
+
+Cursos
+
+- Arquitetura da Informação e Gestão de Projetos – Jump Education
+- Intercâmbio – English Time School – Londres
+- Desenho artístico – Escola Arte São Paulo
+
